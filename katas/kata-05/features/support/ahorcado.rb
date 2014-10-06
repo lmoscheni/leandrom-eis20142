@@ -6,6 +6,10 @@ class Ahorcado
 		@estado = ""
 		palabra_secreta.each_char { |chr| @estado += '*' }
 	end
+
+	def vidas an_number
+		@vidas = an_number
+	end
 	
 	def vidas
 		@vidas
