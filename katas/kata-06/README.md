@@ -31,4 +31,4 @@ Estimación: 1
 Como jugador quiero : si perdí la partida
 Estimación: 1
 
-Link al  video: 
+Link al video: http://youtu.be/4qdG7v7O85s 
