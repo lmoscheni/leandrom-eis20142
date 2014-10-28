@@ -1,3 +1,5 @@
+require "generador_de_posiciones_aleatorias"
+
 class Tablero
 	def initialize
 		@generador_de_posiciones_aleatorias = GeneradorDePosicionesAleatorias.new
